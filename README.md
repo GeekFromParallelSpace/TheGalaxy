@@ -1,1 +1,1 @@
-# TheGalaxy
+# The Galaxy
